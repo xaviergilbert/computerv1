@@ -115,11 +115,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-# quand ca vaut 0, ca vaut pas 0 (xavier se trompe en pensant que c est bon)
-
-# clean un peu le code
-
-
-
-# se souvenir qu on a 4 bonus : z retire zero, f fraction irreductible, couleur, on peut mettre le 0 des 2 cotes
