@@ -6,4 +6,5 @@
 
 ## Options
 -z : enlève les expressions valant 0 de la forme reduite
+
 -f : met le résultat de l'equation sous forme de fraction irreductible
